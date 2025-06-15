@@ -13,4 +13,5 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-panazzolo-979bb9366/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   <img href="https://steamcommunity.com/id/StopStaringAtTheShadows/" src="https://img.shields.io/badge/-Steam-171A21?style=for-the-badge&logo=steam&logoColor=white">
 </div>
