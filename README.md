@@ -22,23 +22,17 @@
 </a>
   
 </div>
+<div>
+  
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=AkaiTheAlone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="Top Langs" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaiTheAlone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+<img 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=AkaiTheAlone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/> <img 
+  alt="Top Langs" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaiTheAlone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+</div>
 
