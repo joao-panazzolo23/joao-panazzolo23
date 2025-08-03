@@ -32,7 +32,7 @@
 /> <img 
   alt="Top Langs" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaiTheAlone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-panazzolo23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </div>
 
