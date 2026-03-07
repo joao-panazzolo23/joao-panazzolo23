@@ -17,19 +17,17 @@
 <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-panazzolo-979bb9366/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
 </div>
 <div>
   
-
 <img 
-  alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=joao-panazzolo23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/> <img 
-  alt="Top Langs" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-panazzolo23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://streak-stats.demolab.com?user=joao-panazzolo23&theme=tokyonight&locale=pt_BR" 
 />
+
+<img src="https://github-profile-trophy.vercel.app/?username=joao-panazzolo23&theme=tokyonight&row=1&column=6" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-panazzolo23&theme=tokyo-night"/>
 </div>
 
