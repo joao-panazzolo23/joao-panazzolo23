@@ -19,15 +19,13 @@
   </a> 
 </div>
 <div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-panazzolo23&theme=tokyo-night"/>
   
 <img 
   height="200" 
   src="https://streak-stats.demolab.com?user=joao-panazzolo23&theme=tokyonight&locale=pt_BR" 
 />
 
-<img src="https://github-profile-trophy.vercel.app/?username=joao-panazzolo23&theme=tokyonight&row=1&column=6" />
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-panazzolo23&theme=tokyo-night"/>
 </div>
 
