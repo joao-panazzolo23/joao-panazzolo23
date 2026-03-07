@@ -22,10 +22,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-panazzolo23&theme=tokyo-night"/>
   
-[<img 
-  height="200" 
-  src="https://streak-stats.demolab.com?user=joao-panazzolo23&theme=tokyonight&locale=pt_BR" 
-/>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=joao-panazzolo23&layout=compact&theme=tokyonight)
+<div>
+<img height="200" src="https://streak-stats.demolab.com?user=joao-panazzolo23&theme=tokyonight"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-panazzolo23&theme=tokyonight"/>
+</div>
 
 </div>
 
