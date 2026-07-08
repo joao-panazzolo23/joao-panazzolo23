@@ -1,6 +1,6 @@
 ## Welcome!
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,angular,docker,linux,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,angular,docker,linux,mongodb,postgres,rust)](https://skillicons.dev)
 
   ##
  
